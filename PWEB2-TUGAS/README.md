@@ -369,7 +369,7 @@ Membuat php ke output navigasi bar yang terlihat rapih dan juga menarik dengan m
    	 <a href="aboutme.php">About Me</a>
 	</div>
 	```
-dan juga untukk Judul Home Page
+dan juga untuk Judul Home Page <br>
 	```
 	<div class="section-title">
    	 Home Page
@@ -454,7 +454,8 @@ Membuat php ke output navigasi bar yang terlihat rapih dan juga menarik dengan m
    	 <a href="aboutme.php">About Me</a>
 	</div>
 	```
-dan juga untuk Informati pada Halaman Tentang Saya
+ 
+dan juga untuk Informati pada Halaman Tentang Saya <br>
 	```
 	<div class="section-title">
    	 Tentang Saya
