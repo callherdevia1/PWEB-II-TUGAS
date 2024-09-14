@@ -188,6 +188,8 @@ Looping pada PHP digunakan untuk menampilkan nomor urut pada tabel sehingga tida
   	- Penggunaan ```foreach($database as $row){``` digunakan untuk mengambil setiap baris data dari database Students.
   	- ```<td><?php echo $no++; ?></td>``` berfungsi untuk menampilkan nomor urut dalam kolom pertama dan setiap kali data ditambahkan maka nomor urut akan bertambah 1
 
+- <b>OUTPUT STUDENTS</b> <br>
+![Screenshot 2024-09-12 011100](https://github.com/user-attachments/assets/3973d56e-9841-4107-bc05-b19b84146849) <br>
 	  	  
 <h1>✍️STUDY PROGRAMS</h1>
 
@@ -293,6 +295,8 @@ Looping pada PHP digunakan untuk menampilkan nomor urut pada tabel sehingga tida
   	- Penggunaan ```foreach($database as $row){``` digunakan untuk mengambil setiap baris data dari database Study Programs pada MYSQL.
   	- ```<td><?php echo $no++; ?></td>``` berfungsi untuk menampilkan nomor urut dalam kolom pertama dan setiap kali data ditambahkan maka nomor urut akan bertambah 1
  
+- <b>OUTPUT STUDY PROGRAMS</b> <br>
+![Screenshot 2024-09-12 011100](https://github.com/user-attachments/assets/3973d56e-9841-4107-bc05-b19b84146849) <br>
 
 <h1>✍️HOME PAGE</h1>
 
@@ -378,7 +382,9 @@ dan juga untuk Judul Home Page <br>
    	 <p>Tugas ini untuk Praktikum Pemrograman Web 2 Object Oriented Programming (OOP) Based View yang diampu oleh Bapak Prih Diantono Abda'u, S.Kom.,M.Kom</p>
 	</div>
 	```
- 
+- <b>OUTPUT HOME PAGE</b> <br>
+![Screenshot 2024-09-12 011100](https://github.com/user-attachments/assets/3973d56e-9841-4107-bc05-b19b84146849) <br>
+
 <h1>✍️About Me</h1>
 
 Pada Tahap KELIMA dilakukan hal yang sama seperti Students dan Study Programs dengan memasukan OOP. Navigasi Bar Selalu sama dengan Students dan Study Programs Karena akan muncul dalam 1 halaman yang sama sehingga tidak berubah. Namun Pada halaman Home dan About Me tidak terkoneksi pada mysql
@@ -472,7 +478,8 @@ dan juga untuk Informati pada Halaman Tentang Saya <br>
  	- ```<ul> dan <li>``` untuk membuat daftar urutan yang rapih sehingga output yang ditampilkan tudak berantakan 
   	- ```<span>``` digunakan untuk menandai bagian teks yang ingin di styling khusus
 
-	  	  
+- <b>ABOUT ME</b> <br>
+![Screenshot 2024-09-12 011100](https://github.com/user-attachments/assets/3973d56e-9841-4107-bc05-b19b84146849) <br>
 	  	  	
 			
 
