@@ -189,7 +189,7 @@ Looping pada PHP digunakan untuk menampilkan nomor urut pada tabel sehingga tida
   	- ```<td><?php echo $no++; ?></td>``` berfungsi untuk menampilkan nomor urut dalam kolom pertama dan setiap kali data ditambahkan maka nomor urut akan bertambah 1
 
 - <b>OUTPUT STUDENTS</b> <br>
-![Screenshot 2024-09-12 011100](https://github.com/user-attachments/assets/3973d56e-9841-4107-bc05-b19b84146849) <br>
+![Screenshot 2024-09-14 095241](https://github.com/user-attachments/assets/06da9dfe-4b36-422e-9372-7e9f593075e8) <br>
 	  	  
 <h1>✍️STUDY PROGRAMS</h1>
 
@@ -296,7 +296,7 @@ Looping pada PHP digunakan untuk menampilkan nomor urut pada tabel sehingga tida
   	- ```<td><?php echo $no++; ?></td>``` berfungsi untuk menampilkan nomor urut dalam kolom pertama dan setiap kali data ditambahkan maka nomor urut akan bertambah 1
  
 - <b>OUTPUT STUDY PROGRAMS</b> <br>
-![Screenshot 2024-09-12 011100](https://github.com/user-attachments/assets/3973d56e-9841-4107-bc05-b19b84146849) <br>
+![Screenshot 2024-09-14 095304](https://github.com/user-attachments/assets/212427c8-c871-4879-ac42-9933162a1ea2) <br>
 
 <h1>✍️HOME PAGE</h1>
 
@@ -383,7 +383,7 @@ dan juga untuk Judul Home Page <br>
 	</div>
 	```
 - <b>OUTPUT HOME PAGE</b> <br>
-![Screenshot 2024-09-12 011100](https://github.com/user-attachments/assets/3973d56e-9841-4107-bc05-b19b84146849) <br>
+![Screenshot 2024-09-14 095323](https://github.com/user-attachments/assets/5aea52d1-90e8-4fcf-a256-d5db3b54ecf1) <br>
 
 <h1>✍️About Me</h1>
 
@@ -479,7 +479,7 @@ dan juga untuk Informati pada Halaman Tentang Saya <br>
   	- ```<span>``` digunakan untuk menandai bagian teks yang ingin di styling khusus
 
 - <b>ABOUT ME</b> <br>
-![Screenshot 2024-09-12 011100](https://github.com/user-attachments/assets/3973d56e-9841-4107-bc05-b19b84146849) <br>
+![Screenshot 2024-09-14 095338](https://github.com/user-attachments/assets/76a51d93-9521-457e-b571-9080102a0efe) <br>
 	  	  	
 			
 
