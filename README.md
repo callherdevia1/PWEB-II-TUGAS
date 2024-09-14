@@ -12,7 +12,7 @@ Object-Oriented Programming adalah tentang penulisan prosedur atau fungsi yang m
 
 ## 🗒️ Daftar Isi
 - [Tugas 2](https://github.com/callherdevia1/PWEB-II-TUGAS/tree/main/PWEB2-TUGAS)
-- [MYSQL](https://github.com/callherdevia1/PWEB-II/tree/main/Jobsheet%203(5-6))
+- [MYSQL](https://github.com/callherdevia1/PWEB-II-TUGAS/tree/main/MYSQL-OOP)
 
 ## 📧 Contact
 * **Email**: [deviakippuw.stu@pnc.ac.id](mailto:deviakippuw.stu@pnc.ac.id)
