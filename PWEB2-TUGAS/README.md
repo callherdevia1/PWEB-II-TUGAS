@@ -457,16 +457,16 @@ Membuat php ke output navigasi bar yang terlihat rapih dan juga menarik dengan m
  
 dan juga untuk Informati pada Halaman Tentang Saya <br>
 	```
-	<div class="section-title">
-   	 Tentang Saya
-   	</div>
-   	 <div class="container">
-	</div>
-   	<ul>
-   		<li><span>Nama:</span> Devia Herena Kippuw</li>
-   		 <li><span>NPM:</span> 230202031</li>
-   		 <li><span>Kelas:</span> TI-2B</li>
-   	<ul>
+		<div class="section-title">
+	   	 Tentang Saya
+	   	</div>
+	   	 <div class="container">
+		</div>
+	   	<ul>
+	   		<li><span>Nama:</span> Devia Herena Kippuw</li>
+	   		 <li><span>NPM:</span> 230202031</li>
+	   		 <li><span>Kelas:</span> TI-2B</li>
+	   	<ul>
    	</div>
 	```
  	- ```<ul> dan <li>``` untuk membuat daftar urutan yang rapih sehingga output yang ditampilkan tudak berantakan 
